@@ -25,6 +25,7 @@ This project is a deep learning-based image classification model that predicts d
 ---
 
 ## 📁 Dataset Structure
+Download Dataset from here - https://www.kaggle.com/datasets/shubhamgoel27/dermnet
 
 Make sure your dataset follows this directory format:
 dataset/
